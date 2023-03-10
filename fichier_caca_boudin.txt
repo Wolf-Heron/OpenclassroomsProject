@@ -1,1 +1,4 @@
-yo
+yo les gens
+
+c'est parti pour s'emmerder sur GIT l'outil de versionnage 
+qu'on m'a jamais appris à maîtriser et qui m'a couté plusieurs opportunités
